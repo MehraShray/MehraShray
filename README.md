@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MehraShray
+- 👋 Hi, I’m @Shray Mehra
 - 👀 I’m interested in ...Learning New Coding Languages
 - 🌱 I’m currently learning ...DotNet and Mvc
 - 💞️ I’m looking to collaborate on ...various DotNet Projects
